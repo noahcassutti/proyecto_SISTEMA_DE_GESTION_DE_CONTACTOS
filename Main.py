@@ -1,5 +1,5 @@
-from Registros import *
-from Funciones import agregar_contacto_input
+from clases.Registros import *
+from utilidades.Funciones import agregar_contacto_input
 
 # función principal
 def main():
